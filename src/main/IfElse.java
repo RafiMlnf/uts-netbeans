@@ -22,7 +22,7 @@ public class IfElse {
         if(nilai >= 90 && nilai <= 100) {
             System.out.println("Selamat! Anda lulus.");
         } else if (nilai >= 70 && nilai < 90) {
-            System.out.println("Anda mengulang, tetapi tetap lulus");
+            System.out.println("Anda mengulang, tapi tetap lulus");
         } else {
             System.out.println("Woi bodoh");
         }
